@@ -684,7 +684,13 @@ left: 1000px;
 top: 5897px;
 }
 .img_13{
-	
+	position: absolute;
+width: 60px;
+height: 60px;
+left: 313px;
+top: 1967px;
+
+
 }
 
 .blog_1{
